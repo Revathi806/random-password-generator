@@ -24,13 +24,15 @@ The application allows users to generate a random password based on specified cr
 1. **Run the application:**
    ```bash
    python password_generator.py
+   
 2.**Enter the desired values in the input fields:**
-    - **Enter Length:** Total length of the password.
-    - **How Many Uppercase Letters:** Number of uppercase letters to include.
-    - **How Many Lowercase Letters:** Number of lowercase letters to include.
-    - **How Many Digits:** Number of digits to include.
-    - **How Many Special Characters:** Number of special characters to include.
-    - **Enter Any Characters You Want to Avoid:** Characters that should not appear in the password.
+- **Enter Length:** Total length of the password.
+- **How Many Uppercase Letters:** Number of uppercase letters to include.
+- **How Many Lowercase Letters:** Number of lowercase letters to include.
+- **How Many Digits:** Number of digits to include.
+- **How Many Special Characters:** Number of special characters to include.
+- **Enter Any Characters You Want to Avoid:** Characters that should not appear in the password.
+  
 3. Click the **"Generate Password"** button to create a password based on your specifications.
 4. The generated password will be displayed on the screen. You can click the **"Copy"** button to copy the password to your clipboard.
 
